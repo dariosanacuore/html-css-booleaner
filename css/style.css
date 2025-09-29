@@ -1,6 +1,6 @@
 .riq{
     background-color:rgb(37, 96, 168);
-    height:100px;
+    height:150px;
     background-image:url("../img/pattern.png");
     background-repeat: repeat-x;
     
@@ -12,7 +12,7 @@
     background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     width:100px;
-    margin-top: 60px;
+    margin-top: 120px;
     
 }
 .internet{
@@ -23,4 +23,19 @@
 }
 .bg-blue{
     color:blue;
+}
+thead{
+    color:white;
+    background-color: rgb(27, 70, 144);
+    
+}
+.bg-table1{
+    background-color: aqua;
+    
+}
+.bg-table2{
+    background-color: aqua;
+}
+.bg-interessi{
+    color:grey;
 }
