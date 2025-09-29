@@ -1,0 +1,17 @@
+.riq{
+    background-color:rgb(37, 96, 168);
+    height:100px;
+    background-image:url("../img/pattern.png");
+    background-repeat: repeat-x;
+    
+}
+.largo{
+    background-repeat: repeat-x;
+}
+.logo2{
+    background-image: url("../img/logo.svg");
+    background-repeat: no-repeat;
+    width:100px;
+    margin-top: 60px;
+    
+}
