@@ -39,3 +39,23 @@ thead{
 .bg-interessi{
     color:grey;
 }
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width:300px;
+    height:250px;
+}
+.bg-monitor{
+    font-size:30px;
+    color:white;
+    text-align: center;
+}
+.grafica{
+    background-image: url(../img/graph.jpg);
+    width:300px;
+    height:250px;
+}
+.bg-grafica{
+     font-size:30px;
+    color:white;
+    text-align: center;
+}
